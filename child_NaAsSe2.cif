@@ -1,0 +1,58 @@
+# CIF file created by FINDSYM, version 7.1.3
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a     11.8866800000
+_cell_length_b     6.0720500000
+_cell_length_c     12.1564000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta   90.7960600000
+_cell_angle_gamma  90.0000000000
+_cell_volume       877.3219047872
+
+_symmetry_space_group_name_H-M "P 1 c 1"
+_symmetry_Int_Tables_number 7
+_space_group.reference_setting '007:P -2yc'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+2 x,-y,z+1/2
+
+loop_
+_atom_type_symbol
+As    
+Se    
+Na    
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+As1 As   2 a  0.3237500000  0.0766550000  0.3234900000  1.0000000000 Dx,Dy,Dz 
+As2 As   2 a  0.0667900000  0.0919900000  0.1050500000  1.0000000000 Dx,Dy,Dz 
+As3 As   2 a  0.8218100000  0.4517300000  0.1387000000  1.0000000000 Dx,Dy,Dz 
+As4 As   2 a  0.5684000000  0.0209900000  0.1499000000  1.0000000000 Dx,Dy,Dz 
+Se1 Se   2 a  0.1084700000  0.0254100000  0.3019200000  1.0000000000 Dx,Dy,Dz 
+Se2 Se   2 a  0.8393900000  0.4808600000  0.3324500000  1.0000000000 Dx,Dy,Dz 
+Se3 Se   2 a  0.6073100000  0.4125700000  0.1102300000  1.0000000000 Dx,Dy,Dz 
+Se4 Se   2 a  0.5755100000 -0.0000650000  0.8439900000  1.0000000000 Dx,Dy,Dz 
+Se5 Se   2 a  0.3574700000  0.0358200000  0.1225300000  1.0000000000 Dx,Dy,Dz 
+Se6 Se   2 a  0.8552800000  0.0507650000  0.1073300000  1.0000000000 Dx,Dy,Dz 
+Se7 Se   2 a  0.0742400000  0.5211950000  0.5870800000  1.0000000000 Dx,Dy,Dz 
+Se8 Se   2 a  0.3376700000  0.4621900000  0.3500300000  1.0000000000 Dx,Dy,Dz 
+Na1 Na   2 a  0.0885000000  0.5223300000  0.3368400000  1.0000000000 Dx,Dy,Dz 
+Na2 Na   2 a  0.8287700000  0.0170450000  0.8561200000  1.0000000000 Dx,Dy,Dz 
+Na3 Na   2 a  0.5880400000  0.5024750000  0.3591700000  1.0000000000 Dx,Dy,Dz 
+Na4 Na   2 a  0.3254450000  0.4641200000  0.6008400000  1.0000000000 Dx,Dy,Dz 
+
+# end of cif
