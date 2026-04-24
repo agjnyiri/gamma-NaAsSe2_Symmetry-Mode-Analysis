@@ -1,6 +1,6 @@
 # gamma-NaAsSe2_Symmetry-Mode-Analysis
 
-This repo contains scripts, structure files, and results from symmetry-mode analyis of gamma-NaAsSe2. Further details are provided below.
+This repo contains scripts, structure files, and results from symmetry-mode analysis of gamma-NaAsSe2. Further details are provided below.
 
 - Analysis: contains scripts used for motif geometry quantification, projected density-of-states (PDOS) plotting, and second-harmonic generation (SHG) data plotting.
 
