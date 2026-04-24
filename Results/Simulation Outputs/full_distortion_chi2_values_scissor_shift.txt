@@ -1,0 +1,11 @@
+80% Distorted:
+chi2_xxx (real) = 483.2 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 737.1 pm/V at hbar*w 0.6 eV
+
+90% Distorted:
+chi2_xxx (real) = 382.7 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 549.0 pm/V at hbar*w 0.6 eV
+
+100% Distorted:
+chi2_xxx (real) = 321.2 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 441.7 pm/V at hbar*w 0.6 eV
