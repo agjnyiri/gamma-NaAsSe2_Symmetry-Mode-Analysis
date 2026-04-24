@@ -1,0 +1,32 @@
+0% Distortion:
+0 eV
+
+10% Distortion:
+0 eV
+
+20% Distortion:
+0 eV
+
+30% Distortion:
+0 eV
+
+40% Distortion:
+0 eV
+
+50% Distortion:
+0.237 eV
+
+60% Distortion:
+0.430 eV
+
+70% Distortion:
+0.647 eV
+
+80% Distortion:
+0.864 eV
+
+90% Distortion:
+1.075 eV
+
+100% Distortion:
+1.225 eV
