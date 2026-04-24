@@ -1,0 +1,23 @@
+Pressure = 0 GPa
+chi2_xxx (real) = 580.9 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 1033.6 pm/V at hbar*w 0.6 eV
+
+Pressure = 1 GPa
+chi2_xxx (real) = 719.4 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 1369.0 pm/V at hbar*w 0.6 eV
+
+Pressure = 2 GPa
+chi2_xxx (real) = 855.5 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 1879.3 pm/V at hbar*w 0.6 eV
+
+Pressure = 3 GPa
+chi2_xxx (real) = 1010.5 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 2478.6 pm/V at hbar*w 0.6 eV
+
+Pressure = 4 GPa
+chi2_xxx (real) = 1200.7 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 3010.6 pm/V at hbar*w 0.6 eV
+
+Pressure = 5 GPa
+chi2_xxx (real) = 1422.9 pm/V at hbar*w 0.0 eV
+chi2_xxx (real) = 3098.3 pm/V at hbar*w 0.6 eV
