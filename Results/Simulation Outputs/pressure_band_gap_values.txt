@@ -1,0 +1,17 @@
+Pressure = 0 GPa:
+1.225 eV
+
+Pressure = 1 GPa:
+1.079 eV
+
+Pressure = 2 GPa:
+0.964 eV
+
+Pressure = 3 GPa:
+0.853 eV
+
+Pressure = 4 GPa:
+0.755 eV
+
+Pressure = 5 GPa:
+0.672 eV
